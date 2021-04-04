@@ -12,6 +12,9 @@ public class MyGitClass {
 		System.out.println("grup calismasinda yazilan kod");
 		System.out.println("last version codding");
 		System.out.println("My friend's codding");
+		System.out.println("My friend's codding");
+		System.out.println("Githup'taki kodlarim");
+		
 		
 	}
 
