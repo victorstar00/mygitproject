@@ -8,6 +8,7 @@ public class MyGitClass {
 		System.out.println("New Version");
 		System.out.println("Last Version");
 		System.out.println("arkadasimin yazdigi kod");
+		System.out.println("en son calismada yazilan kod");
 	}
 
 }
