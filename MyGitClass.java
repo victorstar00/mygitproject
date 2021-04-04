@@ -11,6 +11,7 @@ public class MyGitClass {
 		System.out.println("en son calismada yazilan kod");
 		System.out.println("grup calismasinda yazilan kod");
 		System.out.println("last version codding");
+		System.out.println("My friend's codding");
 		
 	}
 
