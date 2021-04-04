@@ -7,6 +7,7 @@ public class MyGitClass {
 		System.out.println("Github'tan Merhaba!");
 		System.out.println("New Version");
 		System.out.println("Last Version");
+		System.out.println("arkadasimin yazdigi kod");
 	}
 
 }
