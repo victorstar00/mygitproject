@@ -16,6 +16,7 @@ public class MyGitClass {
 		System.out.println("Githup'taki kodlarim");
 		System.out.println("My friend's codding");
 		System.out.println("Githup'taki kodlarim");
+		System.out.println("Githup'taki kodlarim");	
 		
 		
 	}
