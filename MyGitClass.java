@@ -10,13 +10,12 @@ public class MyGitClass {
 		System.out.println("arkadasimin yazdigi kod");
 		System.out.println("en son calismada yazilan kod");
 		System.out.println("grup calismasinda yazilan kod");
-<<<<<<< HEAD
 		System.out.println("new version codding");
 		System.out.println("14.satir bilgisayarim");
 		System.out.println("16.satir githupta yazilan kod");
-=======
 		System.out.println("last version codding");
 		System.out.println("My friend's codding");
+		System.out.println("Branch'imde yazdigim kodlar");
 		System.out.println("My friend's codding");
 		System.out.println("Githup'taki kodlarim");
 		System.out.println("My friend's codding");
@@ -24,7 +23,7 @@ public class MyGitClass {
 		System.out.println("Githup'taki kodlarim");	
 		
 		
->>>>>>> 19e8b8b3556064525dce2a2437cbf0582fa1ded6
+
 	}
 
 }
