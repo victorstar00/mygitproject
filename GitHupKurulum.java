@@ -1,7 +1,11 @@
 package mygitpackage;
 
 public class GitHupKurulum {
-
+//git merge ile git pull arasindaki farklar
+	//git merge sadece dosya birlestirme islemi yapar
+	//git pull ise daha kapsamlidir. git pull yazarsak direk kodlar gelir.
+	
+	/*
 	05 Nisan 2021 Guncelleme
     
     CMD'nin size yazdiklarini okuyarak ilerleyin, bir hata yaptiginizda cmd size zaten bunu soyleyecektir. Hata almiyorsaniz devam. 
